@@ -4,93 +4,94 @@ Created in 2015 as a final project in high school
 
 It's a LaTeX book containing most of what we learned in precalc
 
-- Final.pdf - Final LaTeX output
-- Reference Book.tex - Source code for PDF
+-   **Final.pdf** - Final LaTeX output
+-   **Reference Book.tex** - Slightly outdated source code for the PDF
 
 ## Contents
-- Basic Functions (pg. 5)
-  - Linear Function
-  - Quadratic Function
-  - Cubic Function
-  - Reciprocal Function
-  - Square Root Function
-  - Exponential Function
-  - Logarithmic Function
-  - Sine Function
-  - Cosine Function
-  - Absolute Value Function
-- Graphical Transformations (pg. 14)
-  - Flipping the y-values over the x-axis and the y-axis
-  - Moving y-values left and right on the x-axis
-  - Moving the y-values up and down on the y-axis
-  - Vertical modifications to the graph
-    - Stretch f(x) → af(x) when a > 1
-    - Shrink f(x) → af(x) when 0 < a < 1
-  - Horizontal modifications to the graph
-    - Stretch f(x) → f(x÷c) when c > 1
-    - Shrink f(x) → f(x÷c) when 0 < c < 1
-- Function Composition and Inverse (pg. 17)
-  - Function Composition
-  - Inverse
-- Quadratic Functions (pg. 18)
-  - Standard Form
-  - Vertex Form
-  - Converting from Standard Form to Vertex Form using Completing the Square
-- Power Functions (pg. 19)
-  - Direct Variation
-  - Indirect Variation
-- Polynomial Functions (pg. 19)
-  - Multiplicity
-    - Guesstimating a graph
-  - Finding the function from zeros
-- Long Division vs. Synthetic Division (pg. 21)
-  - Long Divison Example
-  - Synthetic Division Example
-- Solving Inequalities With Sign Charts (pg. 22)
-- Exponential and Logarithmic Functions (pg. 22)
-  - Solving Exponential Functions
-  - Solving Logarithmic Functions
-  - Properties of Logs
-    - Condensing
-    - Expanding
-- Partial Fraction Decomposition (pg. 23)
-  - Decompose
-  - Sequences and Series
-    - Sequences
-  - Convergent vs. Divergent Sequences
-  - Sum of Finite Series
-  - Partial Sum of Infinite Series
-- Trigonometric Functions (pg. 24)
-  - Radians
-  - Unit Circle
-  - Graphs of Cosecant, Secant, and Cotangent
-    - Cosecant
-    - Secant
-    - Cotangent
-  - Inverse Sine, Cosine, Tangent
-    - Inverse Sine
-    - Inverse Cosine
-    - Inverse Tangent
-  - Evaluating Trigonometry Expressions Using The Unit Circle
-  - Sinusoidal Functions
-- Analytic Trigonometry (pg. 31)
-  - Reciprocal Identities and Quotient Identities
-  - Pythagorean Identities
-  - Double Angle Identities
-  - Half Angle Identities
-  - Power-Reducing Identities
-  - Simplifying Trig Functions
-  - Solving Trig Equations
-  - Proving Trig Identities
-  - Law of Sines
-  - Law of Cosines
-  - Area of a Triangle (SAS and SSS)
-- Application of Trigonometry (pg. 37)
-  - Vectors
-  - Parametric Equation
-  - Polar Coordinates
-  - Graphs and Equations of Polar Relations
-- Conic Sections (pg. 43)
-  - Parabolas
-  - Ellipse
-  - Hyperbola
+
+-   Basic Functions (pg. 5)
+    -   Linear Function
+    -   Quadratic Function
+    -   Cubic Function
+    -   Reciprocal Function
+    -   Square Root Function
+    -   Exponential Function
+    -   Logarithmic Function
+    -   Sine Function
+    -   Cosine Function
+    -   Absolute Value Function
+-   Graphical Transformations (pg. 14)
+    -   Flipping the y-values over the x-axis and the y-axis
+    -   Moving y-values left and right on the x-axis
+    -   Moving the y-values up and down on the y-axis
+    -   Vertical modifications to the graph
+        -   Stretch f(x) → af(x) when a > 1
+        -   Shrink f(x) → af(x) when 0 < a < 1
+    -   Horizontal modifications to the graph
+        -   Stretch f(x) → f(x÷c) when c > 1
+        -   Shrink f(x) → f(x÷c) when 0 < c < 1
+-   Function Composition and Inverse (pg. 17)
+    -   Function Composition
+    -   Inverse
+-   Quadratic Functions (pg. 18)
+    -   Standard Form
+    -   Vertex Form
+    -   Converting from Standard Form to Vertex Form using Completing the Square
+-   Power Functions (pg. 19)
+    -   Direct Variation
+    -   Indirect Variation
+-   Polynomial Functions (pg. 19)
+    -   Multiplicity
+        -   Guesstimating a graph
+    -   Finding the function from zeros
+-   Long Division vs. Synthetic Division (pg. 21)
+    -   Long Divison Example
+    -   Synthetic Division Example
+-   Solving Inequalities With Sign Charts (pg. 22)
+-   Exponential and Logarithmic Functions (pg. 22)
+    -   Solving Exponential Functions
+    -   Solving Logarithmic Functions
+    -   Properties of Logs
+        -   Condensing
+        -   Expanding
+-   Partial Fraction Decomposition (pg. 23)
+    -   Decompose
+    -   Sequences and Series
+        -   Sequences
+    -   Convergent vs. Divergent Sequences
+    -   Sum of Finite Series
+    -   Partial Sum of Infinite Series
+-   Trigonometric Functions (pg. 24)
+    -   Radians
+    -   Unit Circle
+    -   Graphs of Cosecant, Secant, and Cotangent
+        -   Cosecant
+        -   Secant
+        -   Cotangent
+    -   Inverse Sine, Cosine, Tangent
+        -   Inverse Sine
+        -   Inverse Cosine
+        -   Inverse Tangent
+    -   Evaluating Trigonometry Expressions Using The Unit Circle
+    -   Sinusoidal Functions
+-   Analytic Trigonometry (pg. 31)
+    -   Reciprocal Identities and Quotient Identities
+    -   Pythagorean Identities
+    -   Double Angle Identities
+    -   Half Angle Identities
+    -   Power-Reducing Identities
+    -   Simplifying Trig Functions
+    -   Solving Trig Equations
+    -   Proving Trig Identities
+    -   Law of Sines
+    -   Law of Cosines
+    -   Area of a Triangle (SAS and SSS)
+-   Application of Trigonometry (pg. 37)
+    -   Vectors
+    -   Parametric Equation
+    -   Polar Coordinates
+    -   Graphs and Equations of Polar Relations
+-   Conic Sections (pg. 43)
+    -   Parabolas
+    -   Ellipse
+    -   Hyperbola
